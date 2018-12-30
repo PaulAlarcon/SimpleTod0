@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -24,12 +24,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-//gif file taken from the Prework guidelines (Couldn't capture my phone as a gif )
+
 Here's a walkthrough of implemented user stories:
 
-<img src='gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Video created with [Du Recorder](http:/https://play.google.com/store/apps/details?id=com.duapps.recorder&rdid=com.duapps.recorder/).
 
 ## Notes
 
