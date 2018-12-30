@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthroughgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with [Du Recorder](http:/https://play.google.com/store/apps/details?id=com.duapps.recorder&rdid=com.duapps.recorder/).
 
